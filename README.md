@@ -10,6 +10,4 @@
 * [Mappa fatta da Fondazione GIMBE e Protezione Civile!](https://unwfp.maps.arcgis.com/apps/opsdashboard/index.html#/4f74fc222b7041cd9cc3c52e62af1b8c)
 
 ### Dati "ufficiosi"
-Questo è il report giornaliero più recente presente in questo repository
-
-![Ultimo aggionamento ufficioso](../master/covid-19_data/covid-19_daily_reports/2020-02-26.csv)
+![Questo](../master/covid-19_data/covid-19_daily_reports/2020-02-26.csv) è il report giornaliero più recente presente in questo repository
