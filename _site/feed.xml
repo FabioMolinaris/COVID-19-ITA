@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-02-27T23:21:16+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">COVID-19-ITA</title><subtitle>COVID-19 (2019-nCoV) Data Repository by Fabio Molinaris</subtitle><entry><title type="html">Aggiornamento 27/02</title><link href="http://localhost:4000/20200227/post-del-2702/" rel="alternate" type="text/html" title="Aggiornamento 27/02" /><published>2020-02-27T19:26:21+01:00</published><updated>2020-02-27T19:26:21+01:00</updated><id>http://localhost:4000/20200227/post-del-2702</id><content type="html" xml:base="http://localhost:4000/20200227/post-del-2702/"></content><author><name>Fabio Molinaris</name></author><summary type="html"></summary></entry><entry><title type="html">Primo post</title><link href="http://localhost:4000/20200227/primo-post/" rel="alternate" type="text/html" title="Primo post" /><published>2020-02-27T19:26:21+01:00</published><updated>2020-02-27T19:26:21+01:00</updated><id>http://localhost:4000/20200227/primo-post</id><content type="html" xml:base="http://localhost:4000/20200227/primo-post/">&lt;h2 id=&quot;covid-19-2019-ncov-data-repository-by-fabio-molinaris&quot;&gt;COVID-19 (2019-nCoV) Data Repository by Fabio Molinaris&lt;/h2&gt;
+
+&lt;h3 id=&quot;sorgenti-dati&quot;&gt;Sorgenti dati:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/GIMBE&quot;&gt;GIMBE!&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://t.me/covid19&quot;&gt;Coronavirus COVID-19 telegram channel!&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.salute.gov.it/nuovocoronavirus&quot;&gt;Ministero Salute!&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;link-interessanti&quot;&gt;Link interessanti:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://unwfp.maps.arcgis.com/apps/opsdashboard/index.html#/4f74fc222b7041cd9cc3c52e62af1b8c&quot;&gt;Mappa fatta da Fondazione GIMBE e Protezione Civile!&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Fabio Molinaris</name></author><summary type="html">COVID-19 (2019-nCoV) Data Repository by Fabio Molinaris</summary></entry></feed>
