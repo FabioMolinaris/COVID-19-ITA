@@ -29,7 +29,7 @@ github_username:  fabiomoli
 
 # Build settings
 #theme: minima
-theme: jekyll-theme-so-simple
+theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
 
