@@ -28,7 +28,8 @@ twitter_username: fabiomolinaris
 github_username:  fabiomoli
 
 # Build settings
-theme: minima
+#theme: minima
+theme: jekyll-theme-dinky
 
 plugins:
   - jekyll-feed
@@ -39,7 +40,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: post
+      layout: default
       author: "Fabio Molinaris"
       permalink: /:year:month:day/:title/
 
