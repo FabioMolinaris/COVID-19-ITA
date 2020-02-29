@@ -28,8 +28,8 @@ twitter_username: fabiomolinaris
 github_username:  fabiomoli
 
 # Build settings
-theme: minima
-#theme: jekyll-theme-dinky
+#theme: minima
+theme: jekyll-theme-minimal
 
 plugins:
   - jekyll-feed
