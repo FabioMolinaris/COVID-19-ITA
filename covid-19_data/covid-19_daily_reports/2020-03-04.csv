@@ -1,21 +1,21 @@
 State,Region,Last Update,Confirmed,Deaths,Recovered
-Italy,Abruzzo,2020-03-04T08:46:00,6,0,0
+Italy,Abruzzo,2020-03-04T08:46:00,7,0,0
 Italy,Basilicata,2020-03-04T08:46:00,1,0,0
 Italy,Calabria,2020-03-04T08:46:00,1,0,0
-Italy,Campania,2020-03-04T08:46:00,30,0,0
-Italy,Emilia-Romagna,2020-03-04T08:46:00,398,18,4
-Italy,Friuli Venezia Giulia,2020-03-04T08:46:00,13,0,0
-Italy,Lazio,2020-03-04T08:46:00,11,0,3
-Italy,Liguria,2020-03-04T08:46:00,19,1,4
-Italy,Lombardia,2020-03-04T08:46:00,1326,55,139
-Italy,Marche,2020-03-04T08:46:00,59,2,0
+Italy,Campania,2020-03-04T08:46:00,31,0,0
+Italy,Emilia-Romagna,2020-03-04T08:46:00,516,22,6
+Italy,Friuli Venezia Giulia,2020-03-04T08:46:00,18,0,0
+Italy,Lazio,2020-03-04T08:46:00,27,0,3
+Italy,Liguria,2020-03-04T08:46:00,21,1,4
+Italy,Lombardia,2020-03-04T08:46:00,1497,73,250
+Italy,Marche,2020-03-04T08:46:00,80,4,0
 Italy,Molise,2020-03-04T08:46:00,3,0,0
-Italy,Piemonte,2020-03-04T08:46:00,56,0,0
-Italy,Puglia,2020-03-04T08:46:00,6,0,0
-Italy,Sardegna,2020-03-04T08:46:00,1,0,0
-Italy,Sicilia,2020-03-04T08:46:00,5,0,2
-Italy,Toscana,2020-03-04T08:46:00,18,0,1
-Italy,Trentino-Alto Adige,2020-03-04T08:46:00,5,0,0
-Italy,Umbria,2020-03-04T08:46:00,8,0,0
+Italy,Piemonte,2020-03-04T08:46:00,82,0,0
+Italy,Puglia,2020-03-04T08:46:00,7,1,1
+Italy,Sardegna,2020-03-04T08:46:00,2,0,0
+Italy,Sicilia,2020-03-04T08:46:00,16,0,2
+Italy,Toscana,2020-03-04T08:46:00,37,0,1
+Italy,Trentino-Alto Adige,2020-03-04T08:46:00,6,0,0
+Italy,Umbria,2020-03-04T08:46:00,9,0,0
 Italy,Valle d'Aosta,2020-03-04T08:46:00,1,0,0
-Italy,Veneto,2020-03-04T08:46:00,297,3,7
+Italy,Veneto,2020-03-04T08:46:00,345,6,9
